@@ -1,0 +1,13 @@
+{
+    "song1": {
+        "data": "0066000408020107001c00020a006400f4016400000400000000000000000000000000000000033a0000000400030a16270400080001270c001000020d2510001400011d14001800012a18001c00011220002400012024002800012c28002c00020516",
+        "mimeType": "application/mkcd-song",
+        "displayName": "main audio loop",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
